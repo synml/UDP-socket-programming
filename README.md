@@ -15,7 +15,7 @@
 
 ## Build Status
 
-[![release](https://img.shields.io/github/release/Lulin-Pollux/UDP-communication.svg?style=popout-square)](https://github.com/Lulin-Pollux/UDP-communication/releases/latest) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0d1abe0fbdbc412cb0957478a2a0a250)](https://www.codacy.com/app/Lulin-Pollux/UDP-communication?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lulin-Pollux/UDP-communication&amp;utm_campaign=Badge_Grade) ![download](https://img.shields.io/github/downloads/Lulin-Pollux/UDP-communication/total.svg?style=popout-square) ![license](https://img.shields.io/github/license/Lulin-Pollux/UDP-communication.svg?style=popout-square) 
+[![release](https://img.shields.io/github/release/Lulin-Pollux/UDP-communication.svg?style=popout-square)](https://github.com/Lulin-Pollux/UDP-communication/releases/latest) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d1abe0fbdbc412cb0957478a2a0a250)](https://www.codacy.com/manual/Lulin/UDP-communication?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lulin-Pollux/UDP-communication&amp;utm_campaign=Badge_Grade) ![download](https://img.shields.io/github/downloads/Lulin-Pollux/UDP-communication/total.svg?style=popout-square) ![license](https://img.shields.io/github/license/Lulin-Pollux/UDP-communication.svg?style=popout-square) 
 
 ## 설치 방법
 
