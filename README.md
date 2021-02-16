@@ -1,4 +1,4 @@
-# TCP-communication
+# UDP-socket-programming
 
 > 간단한 UDP 통신 프로그램입니다.
 
