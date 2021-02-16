@@ -13,10 +13,6 @@
 - 주요 기능
   - 클라이언트에서 메시지를 보내면 서버에서 그대로 돌려보내준다. (Echo 서버)
 
-## Build Status
-
-[![release](https://img.shields.io/github/release/clovadev/UDP-communication.svg?style=popout-square)](https://github.com/clovadev/UDP-communication/releases/latest) ![download](https://img.shields.io/github/downloads/clovadev/UDP-communication/total.svg?style=popout-square) ![license](https://img.shields.io/github/license/clovadev/UDP-communication.svg?style=popout-square) 
-
 ## 설치 방법
 
 1. Release 뱃지를 클릭하여 릴리즈 페이지로 이동한다.
