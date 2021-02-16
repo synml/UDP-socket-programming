@@ -15,7 +15,7 @@
 
 ## Build Status
 
-[![release](https://img.shields.io/github/release/Lulin-Pollux/UDP-communication.svg?style=popout-square)](https://github.com/Lulin-Pollux/UDP-communication/releases/latest) ![download](https://img.shields.io/github/downloads/Lulin-Pollux/UDP-communication/total.svg?style=popout-square) ![license](https://img.shields.io/github/license/Lulin-Pollux/UDP-communication.svg?style=popout-square) 
+[![release](https://img.shields.io/github/release/clovadev/UDP-communication.svg?style=popout-square)](https://github.com/clovadev/UDP-communication/releases/latest) ![download](https://img.shields.io/github/downloads/clovadev/UDP-communication/total.svg?style=popout-square) ![license](https://img.shields.io/github/license/clovadev/UDP-communication.svg?style=popout-square) 
 
 ## 설치 방법
 
@@ -25,7 +25,7 @@
 
 ## 사용 예시
 
-![How_to_use](https://github.com/Lulin-Pollux/UDP-communication/blob/master/imgs/How_to_use.gif)
+![How_to_use](https://github.com/clovadev/UDP-communication/blob/master/imgs/How_to_use.gif)
 
 - 사용 방법
   1. UDP_Server.exe를 실행한다.
