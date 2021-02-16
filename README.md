@@ -15,7 +15,7 @@
 
 ## Build Status
 
-[![release](https://img.shields.io/github/release/Lulin-Pollux/UDP-communication.svg?style=popout-square)](https://github.com/Lulin-Pollux/UDP-communication/releases/latest) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d1abe0fbdbc412cb0957478a2a0a250)](https://www.codacy.com/manual/Lulin/UDP-communication?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lulin-Pollux/UDP-communication&amp;utm_campaign=Badge_Grade) ![download](https://img.shields.io/github/downloads/Lulin-Pollux/UDP-communication/total.svg?style=popout-square) ![license](https://img.shields.io/github/license/Lulin-Pollux/UDP-communication.svg?style=popout-square) 
+[![release](https://img.shields.io/github/release/Lulin-Pollux/UDP-communication.svg?style=popout-square)](https://github.com/Lulin-Pollux/UDP-communication/releases/latest) ![download](https://img.shields.io/github/downloads/Lulin-Pollux/UDP-communication/total.svg?style=popout-square) ![license](https://img.shields.io/github/license/Lulin-Pollux/UDP-communication.svg?style=popout-square) 
 
 ## 설치 방법
 
@@ -58,21 +58,9 @@
   - 프로젝트 속성에서 Windows SDK 버전을 자신의 컴퓨터에 설치된 버전으로 맞추세요. (10.0.17763.0 권장)
   - 코딩 시작~!
 
-## 변경 로그
-
-- 1.0.0
-  - 첫 릴리즈
-
-## 개발자 정보와 크레딧
-
-- 개발자
-  - Lulin Pollux - [GitHub 프로필](https://github.com/Lulin-Pollux), [kistssy+dev@gmail.com](mailto:kistssy+dev@gmail.com)
-- 크레딧
-  - 참고 교재: [TCP/IP 윈도우 소켓 프로그래밍](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=212916162&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001) (김선우 저, 한빛아카데미)
-
 ## 기여 방법
 
-1. [이 프로젝트](https://github.com/Lulin-Pollux/UDP-communication)를 포크합니다.
+1. 이 리포지토리를 포크합니다.
 2. GitHub Desktop에서 새 브랜치를 만드세요.
 3. 수정사항을 커밋하세요.
 4. 새 브랜치에 푸시하세요.
@@ -80,6 +68,6 @@
 
 ## 라이센스
 
-MIT License © Lulin Pollux
+MIT License
 
 `LICENSE`에서 자세한 정보를 확인할 수 있습니다.
